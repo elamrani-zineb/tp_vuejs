@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "tp1_vuejs",
+			"path": "../tp1_vuejs"
+		},
+		{
+			"name": "ecommerce-tp3",
+			"path": "../ecommerce-tp3"
+		},
+		{
+			"name": "tp2_vuejs",
+			"path": "../tp2_vuejs"
+		}
+	],
+	"settings": {}
+}
